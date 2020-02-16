@@ -1,0 +1,22 @@
+body{
+	text-align: center;
+	background-color: green;
+	background-image: url('gc.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+h1 {
+  font-family: 'Sriracha', cursive;
+  font-size:3em;
+  padding-bottom: 30px;
+  text-align:center; 
+}
+
+
+p{
+	display: inline-block;
+}
+
+li{
+	display: inherit;
+}
